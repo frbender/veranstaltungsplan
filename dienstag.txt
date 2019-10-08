@@ -1,0 +1,503 @@
+Veranstaltung Advanced Algorithmics (0434 L 237)
+gehört zu Advanced Algorithmics
+--------  --------  -----  -----  ----------  ----------  ----------------
+Montag    wöchentl  10:00  12:00  14.10.2019  11.02.2020  MA 004 (Hörsaal)
+Freitag   wöchentl  12:00  14:00  18.10.2019  15.02.2020  EB 301 (Hörsaal)
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020  EB 301 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40025&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+237&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Advanced Web Technologies (0432 L 752)
+gehört zu Advanced Web Technologies
+--------  --------  -----  -----  ----------  ----------  ----------------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  12.02.2020  MA 001 (Hörsaal)
+Dienstag  Einzel    10:00  12:00  11.02.2020  11.02.2020  H 0105 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40240&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+752&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Application of Game Theory in Engineering (34332400 L 003)
+gehört zu Introduction to Game Theory with Engineering Applications
+----------  --------  -----  -----  ----------  ----------  -----------------------------------
+Dienstag    wöchentl  10:00  12:00  03.12.2019  12.02.2020  MAR 0.003 (Seminarraum zentr.verw.)
+Donnerstag  wöchentl  10:00  12:00  05.12.2019  14.02.2020  MAR 0.003 (Seminarraum zentr.verw.)
+----------  --------  -----  -----  ----------  ----------  -----------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40884&version=2&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=34332400+L+003&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Applications of Robotics and Autonomous Systems (0435 L 759)
+gehört zu Applications of Robotics and Autonomous Systems
+--------  --------  -----  -----  ----------  ----------  ------------------------
+Dienstag  wöchentl  14:00  18:00  15.10.2019  12.02.2020  TEL 1119 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  ------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40305&version=7&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0435+L+759&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung BA-Werkstatt / MA-Werkstatt: Kolloquium (Arbeitsmarktintegration im Alltag. Inklusionsbedarf von gesundheitlich beeinträchtigten und anderen benachteiligten ArbeitnehmerInnen) (06371600 L 99)
+keine Zugehörigkeit gefunden
+--------  ------  -----  -----  ----------  ----------
+Montag    Einzel  08:00  19:00  16.03.2020  16.03.2020
+Dienstag  Einzel  08:00  19:00  17.03.2020  17.03.2020
+Mittwoch  Einzel  08:00  19:00  18.03.2020  18.03.2020
+--------  ------  -----  -----  ----------  ----------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=06371600+L+99&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung BDASEM: Seminar Big Data Analytics (0434 L 477)
+gehört zu BDASEM - Big Data Analytics Seminar
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Dienstag  wöchentl  16:00  18:00  15.10.2019  11.02.2020  E-N 719 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40353&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+477&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Betrieb komplexer IT-Systeme (0432 L 140)
+gehört zu Betrieb komplexer IT-Systeme
+--------  --------  -----  -----  ----------  ----------  ----------------
+Freitag   wöchentl  10:00  12:00  25.10.2019  15.02.2020  H 0111 (Hörsaal)
+Dienstag  wöchentl  14:00  16:00  29.10.2019  12.02.2020  H 0111 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40021&version=7&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+140&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Blickbewegung in Mensch-Maschine-Systemen (0532 L 080)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------  -------------------------
+Dienstag  wöchentl  10:00  14:00  22.10.2019  12.02.2020  MAR 3.025 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  -------------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0532+L+080&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Cloud Computing (0432 L 135)
+gehört zu Cloud Computing
+--------  --------  -----  -----  ----------  ----------  ----------------
+Montag    wöchentl  14:00  16:00  14.10.2019  11.02.2020  MA 004 (Hörsaal)
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020  H 1058 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40368&version=12&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+135&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Computer Security Seminar (0434 L 956)
+gehört zu Computer Security - Seminar
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  12.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40388&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+956&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung DBT-PRA (0434 L 468)
+gehört zu DBT-PRA (Database Technology Class - Practice Part)
+--------  --------  -----  -----  ----------  ----------  --------------------
+Freitag   wöchentl  10:00  12:00  18.10.2019  14.02.2020  E-N 732 (PC-Pool)
+Mittwoch  wöchentl  10:00  12:00  16.10.2019  13.02.2020  HFT-TA 101 (Hörsaal)
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020  PTZ S001 (Hörsaal)
+Freitag   wöchentl  12:00  14:00  18.10.2019  08.11.2019  BIB 014 (Hörsaal)
+Freitag   wöchentl  12:00  14:00  22.11.2019  15.02.2020  BIB 014 (Hörsaal)
+Freitag   Einzel    12:00  14:00  15.11.2019  15.11.2019  C 130 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  --------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40037&version=4&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+468&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung DCAITI: Simulation vernetztes und automatisiertes Fahren (0432 L 758)
+gehört zu DCAITI: Simulation vernetztes und automatisiertes Fahren
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020  TEL 403 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40922&version=1&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+758&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Digital Image Processing (0433 L 111)
+gehört zu Digital Image Processing
+--------  ------  -----  -----  ----------  ----------  ----------------
+Dienstag  14tägl  16:00  18:00  15.10.2019  12.02.2020  H 1028 (Hörsaal)
+Dienstag  Einzel  16:00  18:00  05.11.2019  05.11.2019  H 1028 (Hörsaal)
+Dienstag  Einzel  16:00  18:00  10.12.2019  10.12.2019  EW 201 (Hörsaal)
+Dienstag  Einzel  16:00  18:00  07.01.2020  07.01.2020  H 0105 (Hörsaal)
+--------  ------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40414&version=7&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0433+L+111&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Digraph Structure Theory (0401 L 171)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  11.02.2020  TEL 512 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  -----------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0401+L+171&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Einführungsseminar für ausländische Studienanfänger der Fakultät IV (0420 L 020)
+keine Zugehörigkeit gefunden
+--------  ------  -----  -----  ----------  ----------  --------------------------------
+Dienstag  Einzel  13:00  16:00  01.10.2019  01.10.2019  FH 302 (Seminarraum zentr.verw.)
+Dienstag  Einzel  13:00  16:00  01.10.2019  01.10.2019  FH 301 (Seminarraum zentr.verw.)
+Dienstag  Einzel  13:00  16:00  01.10.2019  01.10.2019  FH 311 (Seminarraum zentr.verw.)
+--------  ------  -----  -----  ----------  ----------  --------------------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0420+L+020&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Engineering of Digital Transformation (0435 L 797)
+gehört zu Applied Artificial Intelligence Project
+--------  ------  -----  -----  ----------  ----------  ----------------
+Dienstag  Einzel  14:00  18:00  22.10.2019  22.10.2019  MA 001 (Hörsaal)
+Dienstag  Einzel  14:00  18:00  05.11.2019  05.11.2019  MA 001 (Hörsaal)
+Dienstag  Einzel  14:00  18:00  03.12.2019  03.12.2019  MA 001 (Hörsaal)
+Dienstag  Einzel  14:00  18:00  07.01.2020  07.01.2020  MA 001 (Hörsaal)
+Dienstag  Einzel  14:00  18:00  11.02.2020  11.02.2020  MA 001 (Hörsaal)
+Dienstag  Einzel  14:00  18:00  28.01.2020  28.01.2020  MA 001 (Hörsaal)
+Montag    Einzel  14:00  18:00  17.02.2020  17.02.2020
+--------  ------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40889&version=1&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0435+L+797&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Enterprise Computing (0435 L 336)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------  ----------------
+Mittwoch  wöchentl  16:00  18:00  16.10.2019  13.02.2020  MA 042 (Hörsaal)
+Dienstag  wöchentl  10:00  12:00  15.10.2019  12.02.2020  MA 041 (Hörsaal)
+Samstag   Einzel    10:00  12:00  23.11.2019  23.11.2019  HE 101 (Hörsaal)
+Montag    Einzel    13:00  16:00  23.03.2020  23.03.2020  MA 004 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  ----------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0435+L+336&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Hardware Security (0434 L 983)
+gehört zu Hardware Security Lab
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40113&version=4&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+983&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Introduction to Game Theory (34332400 L 001)
+gehört zu Introduction to Game Theory with Engineering Applications
+----------  --------  -----  -----  ----------  ----------  -----------------------------------
+Dienstag    wöchentl  10:00  12:00  15.10.2019  27.11.2019  MAR 0.003 (Seminarraum zentr.verw.)
+Donnerstag  wöchentl  10:00  12:00  17.10.2019  29.11.2019  MAR 0.003 (Seminarraum zentr.verw.)
+----------  --------  -----  -----  ----------  ----------  -----------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40884&version=2&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=34332400+L+001&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Multivariable Control Systems (0430 L 052)
+gehört zu Multivariable Control Systems
+----------  --------  -----  -----  ----------  ----------  -----------------
+Dienstag    wöchentl  10:00  12:00  15.10.2019  12.02.2020  E 020 (Hörsaal)
+Donnerstag  wöchentl  14:00  16:00  17.10.2019  14.02.2020  EW 202 (Hörsaal)
+Montag      wöchentl  14:00  16:00  14.10.2019  11.02.2020  EMH 225 (Hörsaal)
+----------  --------  -----  -----  ----------  ----------  -----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40187&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0430+L+052&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Network Protocols and Architectures (0432 L 810)
+gehört zu Network Architectures - Basics
+--------  --------  -----  -----  ----------  ----------  -----------------------------------
+Montag    wöchentl  10:00  12:00  14.10.2019  11.02.2020  MAR 0.017 (Seminarraum zentr.verw.)
+Dienstag  wöchentl  10:00  12:00  15.10.2019  12.02.2020  FH 314 (Seminarraum zentr.verw.)
+Mittwoch  wöchentl  10:00  12:00  16.10.2019  13.02.2020  MAR 0.016 (Seminarraum zentr.verw.)
+Montag    wöchentl  14:00  16:00  14.10.2019  11.02.2020  MAR 0.015 (Seminarraum zentr.verw.)
+--------  --------  -----  -----  ----------  ----------  -----------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40591&version=6&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+810&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Network Technologies: Traffic in wireless Networks (0432 L 999)
+gehört zu Network Technologies (Small)
+--------  --------  -----  -----  ----------  ----------  ------------------
+Dienstag  wöchentl  14:00  16:00  15.10.2019  12.02.2020  HFT-TA 340 (Labor)
+--------  --------  -----  -----  ----------  ----------  ------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40604&version=9&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+999&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Parameterized Algorithmics (0434 L 220)
+gehört zu Parameterized Algorithmics
+--------  --------  -----  -----  ----------  ----------  ----------------------------------
+Mittwoch  wöchentl  10:00  12:00  16.10.2019  13.02.2020  MA 043 (Hörsaal)
+Dienstag  wöchentl  14:00  16:00  15.10.2019  12.02.2020  BH-N 128 (Seminarraum zentr.verw.)
+--------  --------  -----  -----  ----------  ----------  ----------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40627&version=5&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+220&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Probability and Stochastic Processes (34331600 L 008)
+gehört zu Foundations of Stochastic Processes
+--------  --------  -----  -----  ----------  ----------  --------------------
+Dienstag  wöchentl  12:00  14:00  15.10.2019  12.02.2020  HFT-TA 131 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  --------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40256&version=3&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=34331600+L+008&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Projekt Advanced Web Technologies (0432 L 753)
+gehört zu Projekt Advanced Web Technologies
+--------  ------  -----  -----  ----------  ----------  --------------------
+Dienstag  Einzel  12:00  14:00  15.10.2019  15.10.2019  HFT-TA 101 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  05.11.2019  05.11.2019  HFT-TA 101 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  17.12.2019  17.12.2019  HFT-TA 101 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  17.12.2019  17.12.2019  EB 107 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  12.11.2019  12.11.2019  HFT-TA 101 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  17.12.2019  17.12.2019  EW 201 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  04.02.2020  04.02.2020  HFT-TA 101 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  04.02.2020  04.02.2020  EB 107 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  04.02.2020  04.02.2020  EW 201 (Hörsaal)
+Dienstag  Einzel  12:00  14:00  12.11.2019  12.11.2019  EW 201 (Hörsaal)
+Dienstag  Einzel  10:00  12:00  05.11.2019  05.11.2019  H 0106 (Hörsaal)
+Dienstag  Einzel  14:00  16:00  05.11.2019  05.11.2019  H 0106 (Hörsaal)
+Dienstag  Einzel  10:00  12:00  17.12.2019  17.12.2019  H 0106 (Hörsaal)
+Dienstag  Einzel  10:00  12:00  04.02.2020  04.02.2020  EB 107 (Hörsaal)
+--------  ------  -----  -----  ----------  ----------  --------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40253&version=4&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+753&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Python Programming for Machine Learning (0434 L 543)
+gehört zu Machine Learning 1-X
+----------  --------  -----  -----  ----------  ----------  ------------------------
+Freitag     wöchentl  10:00  14:00  18.10.2019  08.11.2019  TEL 106li (Terminalraum)
+Donnerstag  wöchentl  10:00  14:00  17.10.2019  07.11.2019  TEL 106li (Terminalraum)
+Dienstag    wöchentl  12:00  14:00  15.10.2019  05.11.2019  PTZ S001 (Hörsaal)
+Dienstag    wöchentl  08:00  10:00  15.10.2019  12.11.2019  EB 301 (Hörsaal)
+Mittwoch    wöchentl  10:00  14:00  16.10.2019  06.11.2019  TEL 206li (Terminalraum)
+Dienstag    Einzel    18:00  20:00  19.11.2019  19.11.2019  H 0105 (Hörsaal)
+----------  --------  -----  -----  ----------  ----------  ------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40834&version=3&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+543&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Quality Assurance of Embedded Systems (0434 L 169)
+gehört zu Quality Assurance of Embedded Systems
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Dienstag  wöchentl  12:00  14:00  22.10.2019  12.02.2020  TEL 1011 (Institutsraum)
+Montag    wöchentl  14:00  16:00  21.10.2019  11.02.2020  TEL 1011 (Institutsraum)
+Freitag   wöchentl  14:00  16:00  25.10.2019  15.02.2020  MA 042 (Hörsaal)
+Freitag   Einzel    14:00  16:00  18.10.2019  18.10.2019  MA 144 (Seminarraum zentr.verw.)
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40662&version=4&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+169&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Quality and Usability (0434 L 905)
+gehört zu Quality & Usability
+--------  --------  -----  -----  ----------  ----------  ---------------------------------------------
+Dienstag  wöchentl  14:00  16:00  22.10.2019  11.02.2020  TEL 20 Auditorium1 (externer (kein TU-) Raum)
+Dienstag  wöchentl  14:00  16:00  19.11.2019  19.11.2019  TEL 209 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  ---------------------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40661&version=7&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+905&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung ROC - Research Oriented Course on Data Science and Engineering Systems and Technologies (0434 L 479)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  14:00  18:00  15.10.2019  11.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+479&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Robotics (0433 L 400)
+gehört zu Robotics I+II
+----------  --------  -----  -----  ----------  ----------  ----------------
+Donnerstag  wöchentl  10:00  12:00  17.10.2019  14.02.2020
+Mittwoch    wöchentl  16:00  18:00  16.10.2019  13.02.2020  MA 043 (Hörsaal)
+Dienstag    wöchentl  14:00  16:00  15.10.2019  12.02.2020  MA 041 (Hörsaal)
+Freitag     wöchentl  10:00  12:00  18.10.2019  15.02.2020
+----------  --------  -----  -----  ----------  ----------  ----------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40688&version=2&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0433+L+400&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Robotics: Project (0433 L 425)
+gehört zu Robotics: Project
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40689&version=8&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0433+L+425&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Seminar Software Engineering of Embedded Systems (0434 L 170)
+keine Zugehörigkeit gefunden
+--------  ------  -----  -----  ----------  ----------  ------------------------
+-         Block   10:00  16:00  22.01.2020  23.01.2020
+Dienstag  Einzel  10:00  12:00  22.10.2019  22.10.2019  TEL 1011 (Institutsraum)
+Dienstag  Einzel  10:00  12:00  19.11.2019  19.11.2019  TEL 1011 (Institutsraum)
+--------  ------  -----  -----  ----------  ----------  ------------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0434+L+170&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Smart Energy Systems (0435 L 782)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------  ------------------------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  12.02.2020  TEL 1119 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  ------------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0435+L+782&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Systementwicklung für ein Entwicklungsland (0432 L 671)
+gehört zu Logik, Spiele, Automaten
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Dienstag  wöchentl  14:00  16:00  15.10.2019  12.02.2020  FH 303 (Seminarraum zentr.verw.)
+Dienstag  wöchentl  18:00  20:00  15.10.2019  12.02.2020  FH 312 (Seminarraum zentr.verw.)
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40545&version=2&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+671&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Thesis and project talks series / Diplomandenseminar (0432 L 829)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  12:00  14:00  15.10.2019  12.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+829&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Wireless Digital Communications Lab I (0432 L 658)
+gehört zu Information Theory and Coding (TI)
+--------  --------  -----  -----  ----------  ----------  --------------------------
+Dienstag  wöchentl  14:00  18:00  05.11.2019  12.02.2020  HFT-TA 616 (Institutsraum)
+--------  --------  -----  -----  ----------  ----------  --------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40106&version=6&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+658&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Algorithmic Graph Structure Theory (0432 L 675)
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  11.02.2020  EW 184 (Seminarraum zentr.verw.)
+Freitag   wöchentl  10:00  12:00  18.10.2019  14.02.2020
+--------  --------  -----  -----  ----------  ----------  --------------------------------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0432+L+675&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Anonymity and Privacy on the Internet (1434 L 9344)
+gehört zu Anonymity and Privacy on the Internet
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  14:00  16:00  15.10.2019  11.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40860&version=3&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=1434+L+9344&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Halbleitertechnologie für die Integration in der Optoelektronik (0431 L 856)
+gehört zu Optische Kommunikationstechnik
+--------  --------  -----  -----  ----------  ----------  --------------------
+Dienstag  wöchentl  14:00  16:00  22.10.2019  12.02.2020  HFT-TA 101 (Hörsaal)
+--------  --------  -----  -----  ----------  ----------  --------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40623&version=6&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0431+L+856&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Hot Topics in Immersive Imaging (No Information (self-generated unique number: 82f81c48329fe0b2a717fe0f44c81eb3))
+keine Zugehörigkeit gefunden
+--------  --------  -----  -----  ----------  ----------
+Dienstag  wöchentl  10:00  12:00  15.10.2019  11.02.2020
+--------  --------  -----  -----  ----------  ----------
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=No+Information+(self-generated+unique+number:+82f81c48329fe0b2a717fe0f44c81eb3)&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
+
+Veranstaltung Silicon Photonics (0431 L 840)
+gehört zu Optische Kommunikationstechnik
+--------  --------  -----  -----  ----------  ----------  ------------------------------------
+Dienstag  wöchentl  16:00  18:00  15.10.2019  12.02.2020  HFT-TA 441 (Seminarraum zentr.verw.)
+--------  --------  -----  -----  ----------  ----------  ------------------------------------
+Zum Modul: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=40623&version=6&sprache=1
+Zum LSF: http://www.lsf.tu-berlin.de/qisserver/servlet/de.his.servlet.RequestDispatcherServlet?state=wsearchv&search=1&subdir=veranstaltung&choice.veranstaltung.semester=y&veranstaltung.semester=20192&veranstaltung.veranstnr=0431+L+840&P_start=0&P_anzahl=999&P.sort=veranstaltung.veranstnr&_form=display
+
+
+
